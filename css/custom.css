@@ -2,3 +2,9 @@
     border-radius: 300px;
     text-align: center;
 }
+.additional-info {
+    width: 250px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
