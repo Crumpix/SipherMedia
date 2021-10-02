@@ -8,14 +8,17 @@ Perfection = Paralysis
 
 */
 
+/*
 
 .crumina-portfolio-item {
     border-radius: 300px;
     text-align: center;
 }
 .additional-info {
-    width: 250px;
-    right: 0;
-    left: 0;
-    margin: auto;
+    width: 250px !important;
+    right: 0 !important;
+    left: 0 !important;
+    margin: auto !important;
 }
+
+*/
